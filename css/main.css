@@ -86,7 +86,12 @@ html {
   pointer-events: none;
   z-index: 1;
 }
-.hero .img_wrap {width:100%;overflow:hidden;}
+.hero .img_wrap {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
 .hero .img_wrap img {
   width: 120%;
   display: block;
