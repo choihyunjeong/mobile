@@ -165,7 +165,7 @@ html {
 .calendar .cal table td.d_day {
   background-color: #FF769A;
   color: #fff;
-  border-radius: 50%;
+  border-radius: 100px;
 }
 .calendar .date {
   display: flex;
